@@ -7,9 +7,9 @@
 
   <!-- Labels: -->
   <!-- First row: -->
-  <a href="https://github.com/astatonn/ids-joomla-eb">
+ <!-- <a href="https://github.com/astatonn/ids-joomla-eb">
     <img src="https://img.shields.io/github/repo-size/astatonn/ids-joomla-eb" height="20">
-  </a>
+  </a>-->
   <a href="https://discord.gg/tfUnXT3QcD">
     <img src="https://img.shields.io/discord/1212095458751549560" height="20">
   </a>
