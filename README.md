@@ -3,7 +3,7 @@
 <a href="https://github.com/astatonn/ids-joomla-eb/">
     <img src="https://i.imgur.com/ublEN2h.png" height="100">
   </a>
-  <h1><a href="https://github.com/astatonn/ids-joomla-eb">Template Padrão Digital de Governo para Joomla</a><br>Exército Brasileiro</h1>
+  <h1><a href="https://github.com/astatonn/ids-joomla-eb">Template Padrão Digital de Governo para Joomla</a><br>Prefeitura Universitária da UFCG</h1>
 
   <!-- Labels: -->
   <!-- First row: -->
